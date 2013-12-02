@@ -1,0 +1,2 @@
+classrecipe-template
+====================
