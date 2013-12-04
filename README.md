@@ -24,6 +24,6 @@ In this activity, students can have experiences like hacking various famous news
 ---
 #Item/Material/System
 * PC *Installed latest [Firefox](http://www.mozilla.org/en-US/firefox/)
-* Popcorn Maker
-* Screen for presentation
+* [X-ray goggle](https://goggles.webmaker.org/en-US)
+* Mic and screen for presentation
 ---
