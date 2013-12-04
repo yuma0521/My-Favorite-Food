@@ -57,7 +57,3 @@ Of course, you can also connect to foreign site.
 
 ![スクリーンショット 2013-12-04 0.26.39.png](https://raw.github.com/bozzziy/Make-my-own-news-site-by-hacking/master/gitfab/resources/スクリーンショット 2013-12-04 0.26.39.png)
 ---
-#After
-
-![スクリーンショット 2013-12-04 0.43.58.png](https://raw.github.com/bozzziy/Make-my-own-news-site-by-hacking/master/gitfab/resources/スクリーンショット 2013-12-04 0.43.58.png)
----
