@@ -33,25 +33,25 @@ In this activity, students can have experiences like hacking various famous news
 
 
 Step1        
-<br> Go to a news site
-<br>cf. [Yahoo!Japan](http://www.yahoo.co.jp/), [BBC](http://www.bbc.co.uk/), [CNN](http://www.cnn.co.jp/), etc.
+ Go to a news site
+cf. [Yahoo!Japan](http://www.yahoo.co.jp/), [BBC](http://www.bbc.co.uk/), [CNN](http://www.cnn.co.jp/), etc.
 
 
 Step2  -10min
-<br>See all of the topics once and dream up interesting ideas
+See all of the topics once and dream up interesting ideas
 
 
 Step3
-<br>Put on X-ray goggles !
-<br>*You can find how to do it on the X-ray goggle's site
+Put on X-ray goggles !
+*You can find how to do it on the X-ray goggle's site
 
 Step4  -20min
-<br>Let's hack the site to change it to your own news site.
+Let's hack the site to change it to your own news site.
 
 Step5  -15min
-<br>Make a presentation to share and discuss each outputs each other.
-<br>Of course, you can also connect to foreign site.
-<br>*Use a projecter and screen
+Make a presentation to share and discuss each outputs each other.
+Of course, you can also connect to foreign site.
+*Use a projecter and screen
 ---
 #Before
 
