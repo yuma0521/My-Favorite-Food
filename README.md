@@ -15,13 +15,11 @@ In this activity, students can have experiences like hacking various famous news
 *X-Ray Goggles allow you to see the building blocks that make up websites on the internet. Activate the goggles to inspect the code behind any webpage, then remix elements with a single click, swapping in your own text, images and more.
 
 ---
-#Educational Effect
-* Search information and Remixing
-
-skill
-
+#Educational Effect / Learning skills
+* Searching information
+* Remixing outputs from others with their own information 
 * Presentation Skill
-* deep Knowledge for own country
+* Media literacy
 
 ---
 #Item/Material/System
