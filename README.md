@@ -1,5 +1,5 @@
 # classrecipe-template
-## elementary,social,classroom
+## MAKER PARTY,social,classroom,hack
 This document is made by [gitfab](http://gitfab.org)
 ---
 #Target
