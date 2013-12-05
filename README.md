@@ -37,7 +37,7 @@ Go to a news site
 cf. [Yahoo!Japan](http://www.yahoo.co.jp/), [BBC](http://www.bbc.co.uk/), [CNN](http://www.cnn.co.jp/), etc.
 
 
-Step2  -10min
+Step2  [10min]
 See all of the topics once and dream up interesting ideas
 
 
@@ -45,10 +45,10 @@ Step3
 Put on X-ray goggles !
 *You can find how to do it on the X-ray goggle's site
 
-Step4  -20min
+Step4  [20min]
 Let's hack the site to change it to your own news site.
 
-Step5  -15min
+Step5  [15min]
 Make a presentation to share and discuss each outputs each other.
 Of course, you can also connect to foreign site.
 *Use a projecter and screen
