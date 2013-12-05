@@ -1,5 +1,5 @@
 # Make-my-own-news-site-by-hacking
-## MAKER PARTY,social,classroom,hack
+## MAKER PARTY,hack
 This document is made by [gitfab](http://gitfab.org)
 ---
 #Overall
