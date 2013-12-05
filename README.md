@@ -33,23 +33,23 @@ Junior high(12-15) ~
 
 
 Step1
-<br>Go to a news site
+Go to a news site
 cf. [Yahoo!Japan](http://www.yahoo.co.jp/), [BBC](http://www.bbc.co.uk/), [CNN](http://www.cnn.co.jp/), etc.
 
 
 Step2  -10min
-<br>See all of the topics once and dream up interesting ideas
+See all of the topics once and dream up interesting ideas
 
 
 Step3
-<br>Put on X-ray goggles !
+Put on X-ray goggles !
 *You can find how to do it on the X-ray goggle's site
 
 Step4  -20min
-<br>Let's hack the site to change it to your own news site.
+Let's hack the site to change it to your own news site.
 
 Step5  -15min
-<br>Make a presentation to share and discuss each outputs each other.
+Make a presentation to share and discuss each outputs each other.
 Of course, you can also connect to foreign site.
 *Use a projecter and screen
 ---
@@ -59,5 +59,6 @@ Of course, you can also connect to foreign site.
 ---
 #After
 
-![スクリーンショット 2013-12-04 0.43.58.png](https://raw.github.com/bozzziy/Make-my-own-news-site-by-hacking/master/gitfab/resources/スクリーンショット 2013-12-04 0.43.58.png)
+
+![x-ray.png](https://raw.github.com/bozzziy/Make-my-own-news-site-by-hacking/master/gitfab/resources/x-ray.png)
 ---
