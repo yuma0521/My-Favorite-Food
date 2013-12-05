@@ -2,13 +2,6 @@
 ## MAKER PARTY,social,classroom,hack
 This document is made by [gitfab](http://gitfab.org)
 ---
-#Target
-Junior high(12-15) ~
----
-#Scale
-1 classroom (~30)
-
----
 #Overall
 In this activity, students can have experiences like hacking various famous news sites to change it to make their own news site with "X-ray goggle*!"
 
@@ -22,6 +15,13 @@ In this activity, students can have experiences like hacking various famous news
 * Media literacy
 
 ---
+#Target
+Junior high(12-15) ~
+---
+#Scale
+1 classroom (~30)
+
+---
 #Item/Material/System
 * PC *Installed latest [Firefox](http://www.mozilla.org/en-US/firefox/)
 * [X-ray goggle](https://goggles.webmaker.org/en-US)
@@ -32,24 +32,24 @@ In this activity, students can have experiences like hacking various famous news
 
 
 
-Step1        
- Go to a news site
+Step1
+<br>Go to a news site
 cf. [Yahoo!Japan](http://www.yahoo.co.jp/), [BBC](http://www.bbc.co.uk/), [CNN](http://www.cnn.co.jp/), etc.
 
 
 Step2  -10min
-See all of the topics once and dream up interesting ideas
+<br>See all of the topics once and dream up interesting ideas
 
 
 Step3
-Put on X-ray goggles !
+<br>Put on X-ray goggles !
 *You can find how to do it on the X-ray goggle's site
 
 Step4  -20min
-Let's hack the site to change it to your own news site.
+<br>Let's hack the site to change it to your own news site.
 
 Step5  -15min
-Make a presentation to share and discuss each outputs each other.
+<br>Make a presentation to share and discuss each outputs each other.
 Of course, you can also connect to foreign site.
 *Use a projecter and screen
 ---
