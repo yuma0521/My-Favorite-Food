@@ -1,64 +1,44 @@
-# Make-my-own-news-site-by-hacking
-## MAKER PARTY,hack
+# My-Favorite-Food
+## class-recipe
 This document is made by [gitfab](http://gitfab.org)
 ---
 #Overall
-In this activity, students can have experiences like hacking various famous news sites to change it to make their own news site with "X-ray goggle*!"
-
-*X-Ray Goggles allow you to see the building blocks that make up websites on the internet. Activate the goggles to inspect the code behind any webpage, then remix elements with a single click, swapping in your own text, images and more.
-
+自分の好きな食べ物をThimbleを使って紹介しましょう。なぜその食べ物が好きなのかをお友達に伝えましょう。
 ---
 #Educational Effect / Learning skills
-* Searching information
-* Remixing outputs from others with their own information 
-* Presentation Skill
-* Media literacy
+* 表現力
+* 発信力
+* コミュニケーション力
+* 情報収集スキル
 
 ---
 #Target
-Junior high(12-15) ~
+小学校2~3年生(8~9歳）
 ---
 #Scale
-1 classroom (~30)
+2 classroom (1…授業内容、Thimble使用方法説明　2…発表)
 
 ---
 #Item/Material/System
 * PC *Installed latest [Firefox](http://www.mozilla.org/en-US/firefox/)
-* [X-ray goggle](https://goggles.webmaker.org/en-US)
+* [Thimble](https://thimble.webmaker.org/project/27960/remix)
 * Mic and screen for presentation
 ---
 #Procedure
-*First of all, you have to install "X-ray goggle" from [here](https://goggles.webmaker.org/en-US) and read a part "Remix any webpage!" on this site.
+
+Step1　Thimbleの使用方法を説明
+
+Step2　自分の好きな食べ物についての紹介ページを作る
+
+Step3　発表
+
+Step4　ふり返り
 
 
-
-Step1
-Go to a news site
-cf. [Yahoo!Japan](http://www.yahoo.co.jp/), [BBC](http://www.bbc.co.uk/), [CNN](http://www.cnn.co.jp/), etc.
-
-
-Step2  [10min]
-See all of the topics once and dream up interesting ideas
-
-
-Step3
-Put on X-ray goggles !
-*You can find how to do it on the X-ray goggle's site
-
-Step4  [20min]
-Let's hack the site to change it to your own news site.
-
-Step5  [15min]
-Make a presentation to share and discuss each outputs each other.
-Of course, you can also connect to foreign site.
-*Use a projecter and screen
 ---
-#Before
 
-![スクリーンショット 2013-12-04 0.26.39.png](https://raw.github.com/bozzziy/Make-my-own-news-site-by-hacking/master/gitfab/resources/スクリーンショット 2013-12-04 0.26.39.png)
 ---
-#After
 
 
-![x-ray.png](https://raw.github.com/bozzziy/Make-my-own-news-site-by-hacking/master/gitfab/resources/x-ray.png)
+![スクリーンショット 2013-12-07 13.41.46.png](https://raw.github.com/yuma0521/My-Favorite-Food/master/gitfab/resources/スクリーンショット-2013-12-07-13.41.46.png)
 ---
